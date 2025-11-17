@@ -11,6 +11,7 @@ apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 exclusive-patches = true
 included-patches = "'Hide ads' 'Disable signature check'"
+arch = "arm64-v8a"
 
 [GooglePhotos]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
