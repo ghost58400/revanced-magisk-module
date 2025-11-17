@@ -8,10 +8,12 @@ parallel-jobs = 1
 
 [Instagram]
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
+uptodown-dlurl = "https://instagram.en.uptodown.com/android"
 exclusive-patches = true
 included-patches = "'Hide ads' 'Disable signature check'"
 
 [GooglePhotos]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
+uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 exclusive-patches = true
 included-patches = "'GmsCore support' 'Spoof features' 'Change package name'"
