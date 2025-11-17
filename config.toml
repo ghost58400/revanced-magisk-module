@@ -16,13 +16,14 @@ uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 included-patches = "'Hide ads' 'Video ads' 'Downloads' 'Swipe controls' 'Disable auto captions' 'Custom branding' 'SponsorBlock' 'Remove background playback restrictions' 'Spoof video streams' 'Force original audio' 'Change package name'"
 # 'GmsCore support' non requis car ajouté automatiquement par le script
 
-[Instagram]
+[Music]
 arch = "arm64-v8a"
 riplib = false
 exclusive-patches = true
-apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/" # bug dans la logique, si apkmirror fail il essaye pas uptodown
-uptodown-dlurl = "https://instagram.en.uptodown.com/android"
-included-patches = "'Hide ads' 'Disable signature check'"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
+uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
+included-patches = "'Hide music video ads' 'Enable exclusive audio playback' 'Custom branding' 'Bypass certificate checks' 'Remove background playback restrictions' 'Spoof video streams'"
+# 'GmsCore support' non requis car ajouté automatiquement par le script
 
 [GooglePhotos]
 arch = "arm64-v8a"
@@ -32,3 +33,11 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 included-patches = "'Spoof features' 'Change package name'"
 # 'GmsCore support' non requis car ajouté automatiquement par le script
+
+[Instagram]
+arch = "arm64-v8a"
+riplib = false
+exclusive-patches = true
+# apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/" # bug dans la logique, si apkmirror fail il essaye pas uptodown
+uptodown-dlurl = "https://instagram.en.uptodown.com/android"
+included-patches = "'Hide ads' 'Disable signature check'"
