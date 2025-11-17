@@ -17,3 +17,4 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 exclusive-patches = true
 included-patches = "'GmsCore support' 'Spoof features' 'Change package name'"
+arch = "arm64-v8a"
