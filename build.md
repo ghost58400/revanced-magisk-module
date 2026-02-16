@@ -1,5 +1,5 @@
-GooglePhotos: 7.59.0.856624550  
-Instagram: 412.0.0.35.87  
+GooglePhotos: 7.63.0.869312946  
+Instagram: 416.0.0.47.66  
 Music: 8.10.52  
 YouTube: 20.14.43  
 
@@ -8,6 +8,6 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanc
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
-CLI: ReVanced/revanced-cli-5.0.1-all.jar  
-Patches: ReVanced/patches-5.48.0.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.48.0)  
+CLI: ReVanced/revanced-cli-5.0.1-all.jar  
+Patches: ReVanced/patches-5.50.2.rvp  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.50.2)  
